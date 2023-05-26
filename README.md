@@ -11,27 +11,27 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source
-      srcset="https://github-readme-stats-casassarnau.vercel.app/api?username=casassarnau&theme=algolia&show_icons=true&count_private=true&bg_color=00000000&hide_border=true"
+      srcset="https://casassarnau-github-readme-stats.vercel.app/api?username=casassarnau&theme=algolia&show_icons=true&count_private=true&bg_color=00000000&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-casassarnau.vercel.app/api?username=casassarnau&theme=algolia&show_icons=true&count_private=true&bg_color=00000000&hide_border=true&text_color=000000"
+      srcset="https://casassarnau-github-readme-stats.vercel.app/api?username=casassarnau&theme=algolia&show_icons=true&count_private=true&bg_color=00000000&hide_border=true&text_color=000000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img title="Casassarnau's GitHub stats" align="top" src="https://github-readme-stats-casassarnau.vercel.app/api?username=casassarnau&theme=algolia&show_icons=true&count_private=true&bg_color=00000000&hide_border=true" />
+    <img title="Casassarnau's GitHub stats" align="top" src="https://casassarnau-github-readme-stats.vercel.app/api?username=casassarnau&theme=algolia&show_icons=true&count_private=true&bg_color=00000000&hide_border=true" />
   </picture>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source
-      srcset="https://github-readme-stats-casassarnau.vercel.app/api/top-langs/?username=casassarnau&theme=algolia&show_icons=true&count_private=true&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&layout=donut"
+      srcset="https://casassarnau-github-readme-stats.vercel.app/api/top-langs/?username=casassarnau&theme=algolia&show_icons=true&count_private=true&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&layout=donut"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-casassarnau.vercel.app/api/top-langs/?username=casassarnau&theme=algolia&show_icons=true&count_private=true&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&layout=donut&text_color=000000"
+      srcset="https://casassarnau-github-readme-stats.vercel.app/api/top-langs/?username=casassarnau&theme=algolia&show_icons=true&count_private=true&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&layout=donut&text_color=000000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img title="Casassarnau Top Langs" align="top" src="https://github-readme-stats-casassarnau.vercel.app/api/top-langs/?username=casassarnau&theme=algolia&show_icons=true&count_private=true&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&layout=donut" />
+    <img title="Casassarnau Top Langs" align="top" src="https://casassarnau-github-readme-stats.vercel.app/api/top-langs/?username=casassarnau&theme=algolia&show_icons=true&count_private=true&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&layout=donut" />
   </picture>
 </a>
 
