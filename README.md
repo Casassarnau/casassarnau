@@ -1,6 +1,6 @@
 ### Hello, I'm Arnau 👋
 
-- 🧑🏻‍💻 Graduated in Computer Science Degree and Cybersecurity Master at UPC (soon) and excited to start another master in Computer Science at KTH!
+- 🧑🏻‍💻 Graduated in Computer Science Degree and Cybersecurity Master at UPC and current student on master in Computer Science at KTH!
 - 🌲 Alumni of HackUPC, been organizer for almost 5 years in the web development team.
 - 🚀 Mantainer of [@hackassistant](https://github.com/HackAssistant) and creator of the [2nd version](https://github.com/HackAssistant/hackassistant) of it.
 - 😄 Pronouns: he/him.
